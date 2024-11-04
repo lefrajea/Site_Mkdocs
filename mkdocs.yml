@@ -1,0 +1,15 @@
+site_name: Premiere Docs
+
+## Préambule
+site_name: Inondation
+site_description: Un site action apres inindation
+site_author: Jean LeFrancois
+#
+theme: 
+  name: readthedocs # mkdocs
+#
+#  ## Architecture
+  nav:
+    - Accueil: index.md
+#
+    ## Extensions
